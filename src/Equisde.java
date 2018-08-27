@@ -59,6 +59,7 @@ public class Equisde extends javax.swing.JFrame {
        q.setColor(Color.red);
        q.drawLine(evt.getX()-radio, evt.getY()+radio, radio, evt.getY());
        q.dispose();
+       //kajfijaifjs
     }//GEN-LAST:event_formMouseClicked
 
     /**
